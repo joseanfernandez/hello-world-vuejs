@@ -1,0 +1,26 @@
+{
+  "name": "hello-world-vuejs",
+  "version": "1.0.0",
+  "description": "Hello world with VueJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseanfernandez/hello-world-vuejs.git"
+  },
+  "author": "Jose Antonio Fernández García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseanfernandez/hello-world-vuejs/issues"
+  },
+  "homepage": "https://github.com/joseanfernandez/hello-world-vuejs#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
